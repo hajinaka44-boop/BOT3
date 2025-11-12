@@ -38,7 +38,7 @@ const cloudscraper = require("cloudscraper");
 
 const TELEGRAM_TOKEN = "8264966184:AAF2a8xBw3b3-ZvuTnaNbV6Q_Denj-lkiIw";
 
-const TELEGRAM_CHAT_ID = "-1003200533486";
+const TELEGRAM_CHAT_ID = "-1003171100676";
 
 const BASE_URL = "https://imssms.org/client";
 
