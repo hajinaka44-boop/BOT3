@@ -40,7 +40,7 @@ const TELEGRAM_TOKEN = "8435090261:AAFXw7VjAqk8GD3iUGDeM38t2bsJJzQxj5Q";
 
 const TELEGRAM_CHAT_ID = "-1003200533486";
 
-const BASE_URL = "http://51.89.7.175/sms/subclient";
+const BASE_URL = "https://imssms.org/client";
 
 const FIXED_ENDPOINT = `${BASE_URL}/res/data_smscdr.php`;
 
@@ -262,7 +262,7 @@ const COUNTRY_CODES = {
 
   55:"Brazil 🇧🇷",1:"USA 🇺🇸",44:"UK 🇬🇧",33:"France 🇫🇷",49:"Germany 🇩🇪",977:"Nepal 🇳🇵",
 
-  7:"Russia 🇷🇺",92:"Pakistan 🇵🇰",234:"Nigeria 🇳🇬",254:"Kenya 🇰🇪",213:"Algeria 🇩🇿",249:"Sudan 🇸🇩",20:"Egypt 🇪🇬",972:"Isriwil 💩"
+  7:"Russia 🇷🇺",92:"Pakistan 🇵🇰",234:"Nigeria 🇳🇬",254:"Kenya 🇰🇪",213:"Algeria 🇩🇿",249:"Sudan 🇸🇩",20:"Egypt 🇪🇬",972:"Isriwil 🇮🇱💩"
 
 };
 
